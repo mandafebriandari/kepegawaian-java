@@ -20,7 +20,7 @@ public class UnitKerja {
     }
     
     public String getNamaUnitKerja(){
-        return namaUnitKerja
+        return namaUnitKerja;
     }
     
     public void setNamaUnitKerja(String namaUnitKerja){
